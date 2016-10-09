@@ -98,7 +98,7 @@ npm config set disturl https://npm.taobao.org/dist --global
 
 #### React Native的命令行工具（react-native-cli）
 
-React Native的命令行工具用于执行创建、初始化、更新项目、运行打包服务（packager）等任务。
+React Native的命令行工具用于执行创建、初始化、更新项目、运行打包服务（packager）等任务。（npm nodejs模块中）
 
 ```
 npm install -g react-native-cli
@@ -336,7 +336,7 @@ npm config set disturl https://npm.taobao.org/dist --global
 
 #### React Native命令行工具（react-native-cli）
 
-React Native的命令行工具用于执行创建、初始化、更新项目、运行打包服务（packager）等任务。
+React Native的命令行工具用于执行创建、初始化、更新项目、运行打包服务（packager）等任务。(npm 实在nodejs中的命令)
 
 ```
 npm install -g react-native-cli
